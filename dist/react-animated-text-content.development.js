@@ -9,7 +9,7 @@
     return css;
 }
 
-function _interopDefaultLegacy(e){return e&&typeof e==='object'&&'default'in e?e:{'default':e}}var React__default=/*#__PURE__*/_interopDefaultLegacy(React);var styled__default=/*#__PURE__*/_interopDefaultLegacy(styled);/*! *****************************************************************************
+function _interopDefaultLegacy(e){return e&&typeof e==='object'&&'default'in e?e:{'default':e}}var React__default=/*#__PURE__*/_interopDefaultLegacy(React);var styled__default=/*#__PURE__*/_interopDefaultLegacy(styled);/******************************************************************************
 Copyright (c) Microsoft Corporation.
 
 Permission to use, copy, modify, and/or distribute this software for any
